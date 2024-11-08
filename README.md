@@ -1,5 +1,9 @@
 # A* Maze Solver
 
+https://github.com/b4r4d41z/A_star_maze_solver/raw/main/a-star-solving.mp4
+
+## Project Overview
+
 This project implements an A* pathfinding algorithm to solve a 16x16 maze in a simulator built with Unreal Engine 5. The robot uses sensors to detect walls and navigate through the maze while finding the optimal path to the goal.
 
 ## Algorithm Overview
@@ -66,10 +70,6 @@ python A-star_final.py
 - NumPy
 - Requests
 - Unreal Engine 5 (for simulator)
-
-## Demonstration
-
-The repository includes a video demonstration (`a-star-solving.mp4`) showing how the algorithm navigates through the maze, finds the optimal path, and reaches the goal.
 
 ## License
 
