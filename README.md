@@ -52,7 +52,7 @@ git clone https://github.com/b4r4d41z/A_star_maze_solver.git
 
 2. Simulator Installation:
    - You can use the no_UI version of the simulator provided in the repository
-   - For the full version with UI (>100MB), please contact me at m0kiets.ivan@gmail.com as GitHub doesn't allow files larger than 100MB
+   - For the full version with UI (>100MB), please contact me as GitHub doesn't allow files larger than 100MB
    - The full version provides better visualization and debugging capabilities
 
 3. Run the algorithm:
